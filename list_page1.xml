@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<result>
+<totalCnt>17336</totalCnt>
+<pageUnit>100</pageUnit>
+<pageIndex>1</pageIndex>	
+
+<item>
+<sn>1</sn>
+<no>1</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>1</crltsnoNm>
+<ccbaMnm1><![CDATA[서울 숭례문]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[서울 崇禮門]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[중구]]></ccsiName>
+<ccbaAdmin><![CDATA[국가유산청 덕수궁관리소]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00010000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100010000</ccbaCpno>
+<longitude>126.975312652739</longitude>
+<latitude>37.559975221378</latitude>
+<regDt>2024-07-01 15:25:01</regDt>
+
+</item>
+
+<item>
+<sn>2</sn>
+<no>2</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>2</crltsnoNm>
+<ccbaMnm1><![CDATA[서울 원각사지 십층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[서울 圓覺寺址 十層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[종로구]]></ccsiName>
+<ccbaAdmin><![CDATA[종로구]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00020000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100020000</ccbaCpno>
+<longitude>126.988207994364</longitude>
+<latitude>37.5715461695449</latitude>
+<regDt>2024-01-30 15:55:02</regDt>
+
+</item>
+
+<item>
+<sn>3</sn>
+<no>3</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>3</crltsnoNm>
+<ccbaMnm1><![CDATA[서울 북한산 신라 진흥왕 순수비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[서울 北漢山 新羅 眞興王 巡狩碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00030000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100030000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2024-11-23 15:11:57</regDt>
+
+</item>
+
+<item>
+<sn>4</sn>
+<no>220</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>4</crltsnoNm>
+<ccbaMnm1><![CDATA[여주 고달사지 승탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[驪州 高達寺址 僧塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경기]]></ccbaCtcdNm>
+<ccsiName><![CDATA[여주시]]></ccsiName>
+<ccbaAdmin><![CDATA[여주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>31</ccbaCtcd>
+<ccbaAsno>00040000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113100040000</ccbaCpno>
+<longitude>127.652160778359</longitude>
+<latitude>37.3939072455202</latitude>
+<regDt>2023-12-12 11:25:22</regDt>
+
+</item>
+
+<item>
+<sn>5</sn>
+<no>238</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>5</crltsnoNm>
+<ccbaMnm1><![CDATA[보은 법주사 쌍사자 석등]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[報恩 法住寺 雙獅子 石燈]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[보은군]]></ccsiName>
+<ccbaAdmin><![CDATA[법주사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00050000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300050000</ccbaCpno>
+<longitude>127.833219375596</longitude>
+<latitude>36.5421679403972</latitude>
+<regDt>2024-01-25 14:25:02</regDt>
+
+</item>
+
+<item>
+<sn>6</sn>
+<no>239</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>6</crltsnoNm>
+<ccbaMnm1><![CDATA[충주 탑평리 칠층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[忠州 塔坪里 七層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[충주시]]></ccsiName>
+<ccbaAdmin><![CDATA[충주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00060000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300060000</ccbaCpno>
+<longitude>127.866630082822</longitude>
+<latitude>37.0158885404695</latitude>
+<regDt>2024-01-25 15:25:02</regDt>
+
+</item>
+
+<item>
+<sn>7</sn>
+<no>251</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>7</crltsnoNm>
+<ccbaMnm1><![CDATA[천안 봉선홍경사 갈기비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[天安 奉先弘慶寺 碣記碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[천안시]]></ccsiName>
+<ccbaAdmin><![CDATA[천안시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00070000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400070000</ccbaCpno>
+<longitude>127.134710477185</longitude>
+<latitude>36.943151950305</latitude>
+<regDt>2023-12-12 11:25:26</regDt>
+
+</item>
+
+<item>
+<sn>8</sn>
+<no>252</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>8</crltsnoNm>
+<ccbaMnm1><![CDATA[보령 성주사지 대낭혜화상탑비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[保寧 聖住寺址 大朗慧和尙塔碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[보령시]]></ccsiName>
+<ccbaAdmin><![CDATA[보령시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00080000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400080000</ccbaCpno>
+<longitude>126.655469090758</longitude>
+<latitude>36.3446996913308</latitude>
+<regDt>2023-12-12 11:25:26</regDt>
+
+</item>
+
+<item>
+<sn>9</sn>
+<no>253</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>9</crltsnoNm>
+<ccbaMnm1><![CDATA[부여 정림사지 오층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[扶餘 定林寺址 五層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[부여군]]></ccsiName>
+<ccbaAdmin><![CDATA[부여군]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00090000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400090000</ccbaCpno>
+<longitude>126.913363436976</longitude>
+<latitude>36.2792973520136</latitude>
+<regDt>2023-12-12 11:25:26</regDt>
+
+</item>
+
+<item>
+<sn>10</sn>
+<no>281</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>10</crltsnoNm>
+<ccbaMnm1><![CDATA[남원 실상사 백장암 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[南原 實相寺 百丈庵 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[남원시]]></ccsiName>
+<ccbaAdmin><![CDATA[백장암]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>35</ccbaCtcd>
+<ccbaAsno>00100000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113500100000</ccbaCpno>
+<longitude>127.619971568516</longitude>
+<latitude>35.4425391241814</latitude>
+<regDt>2023-12-12 11:25:30</regDt>
+
+</item>
+
+<item>
+<sn>11</sn>
+<no>282</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>11</crltsnoNm>
+<ccbaMnm1><![CDATA[익산 미륵사지 석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[益山 彌勒寺址 石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[익산시]]></ccsiName>
+<ccbaAdmin><![CDATA[익산시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>35</ccbaCtcd>
+<ccbaAsno>00110000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113500110000</ccbaCpno>
+<longitude>127.030560529125</longitude>
+<latitude>36.0124223230747</latitude>
+<regDt>2024-01-25 14:25:02</regDt>
+
+</item>
+
+<item>
+<sn>12</sn>
+<no>294</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>12</crltsnoNm>
+<ccbaMnm1><![CDATA[구례 화엄사 각황전 앞 석등]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[求禮 華嚴寺 覺皇殿 앞 石燈]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[구례군]]></ccsiName>
+<ccbaAdmin><![CDATA[화엄사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00120000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600120000</ccbaCpno>
+<longitude>127.497444533919</longitude>
+<latitude>35.2571531377685</latitude>
+<regDt>2023-12-12 11:25:30</regDt>
+
+</item>
+
+<item>
+<sn>13</sn>
+<no>295</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>13</crltsnoNm>
+<ccbaMnm1><![CDATA[강진 무위사 극락보전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[康津 無爲寺 極樂寶殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[강진군]]></ccsiName>
+<ccbaAdmin><![CDATA[무위사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00130000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600130000</ccbaCpno>
+<longitude>126.686758419185</longitude>
+<latitude>34.738787662775</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>14</sn>
+<no>314</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>14</crltsnoNm>
+<ccbaMnm1><![CDATA[영천 거조사 영산전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[永川 居祖寺 靈山殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영천시]]></ccsiName>
+<ccbaAdmin><![CDATA[은해사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00140000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700140000</ccbaCpno>
+<longitude>128.764535947917</longitude>
+<latitude>36.0200794751569</latitude>
+<regDt>2024-01-03 15:55:04</regDt>
+
+</item>
+
+<item>
+<sn>15</sn>
+<no>315</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>15</crltsnoNm>
+<ccbaMnm1><![CDATA[안동 봉정사 극락전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[安東 鳳停寺 極樂殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[안동시]]></ccsiName>
+<ccbaAdmin><![CDATA[봉정사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00150000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700150000</ccbaCpno>
+<longitude>128.662442</longitude>
+<latitude>36.65344383</latitude>
+<regDt>2023-12-12 11:25:33</regDt>
+
+</item>
+
+<item>
+<sn>16</sn>
+<no>316</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>16</crltsnoNm>
+<ccbaMnm1><![CDATA[안동 법흥사지 칠층전탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[安東 法興寺址 七層塼塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[안동시]]></ccsiName>
+<ccbaAdmin><![CDATA[안동시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00160000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700160000</ccbaCpno>
+<longitude>128.746392271242</longitude>
+<latitude>36.5659751219048</latitude>
+<regDt>2024-01-25 15:25:02</regDt>
+
+</item>
+
+<item>
+<sn>17</sn>
+<no>317</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>17</crltsnoNm>
+<ccbaMnm1><![CDATA[영주 부석사 무량수전 앞 석등]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[榮州 浮石寺 無量壽殿 앞 石燈]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영주시]]></ccsiName>
+<ccbaAdmin><![CDATA[부석사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00170000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700170000</ccbaCpno>
+<longitude>128.687451710932</longitude>
+<latitude>36.9988050108967</latitude>
+<regDt>2023-12-12 11:25:33</regDt>
+
+</item>
+
+<item>
+<sn>18</sn>
+<no>318</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>18</crltsnoNm>
+<ccbaMnm1><![CDATA[영주 부석사 무량수전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[榮州 浮石寺 無量壽殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영주시]]></ccsiName>
+<ccbaAdmin><![CDATA[부석사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00180000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700180000</ccbaCpno>
+<longitude>128.68748555042</longitude>
+<latitude>36.9989539877941</latitude>
+<regDt>2023-12-12 11:25:33</regDt>
+
+</item>
+
+<item>
+<sn>19</sn>
+<no>319</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>19</crltsnoNm>
+<ccbaMnm1><![CDATA[영주 부석사 조사당]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[榮州 浮石寺 祖師堂]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영주시]]></ccsiName>
+<ccbaAdmin><![CDATA[부석사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00190000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700190000</ccbaCpno>
+<longitude>128.688515469067</longitude>
+<latitude>36.9996018286797</latitude>
+<regDt>2023-12-12 11:25:33</regDt>
+
+</item>
+
+<item>
+<sn>20</sn>
+<no>320</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>20</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 불국사 다보탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 佛國寺 多寶塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00200000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700200000</ccbaCpno>
+<longitude>129.332267999295</longitude>
+<latitude>35.7899698186069</latitude>
+<regDt>2023-12-12 11:25:33</regDt>
+
+</item>
+
+<item>
+<sn>21</sn>
+<no>321</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>21</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 불국사 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 佛國寺 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00210000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700210000</ccbaCpno>
+<longitude>129.331984595091</longitude>
+<latitude>35.7899677237892</latitude>
+<regDt>2023-12-12 11:25:33</regDt>
+
+</item>
+
+<item>
+<sn>22</sn>
+<no>322</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>22</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 불국사 연화교 및 칠보교]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 佛國寺 蓮華橋 및 七寶橋]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00220000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700220000</ccbaCpno>
+<longitude>129.331642804335</longitude>
+<latitude>35.7897191051224</latitude>
+<regDt>2023-12-12 11:25:34</regDt>
+
+</item>
+
+<item>
+<sn>23</sn>
+<no>323</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>23</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 불국사 청운교 및 백운교]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 佛國寺 靑雲橋 및 白雲橋]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00230000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700230000</ccbaCpno>
+<longitude>129.332158169199</longitude>
+<latitude>35.7897229583531</latitude>
+<regDt>2023-12-12 11:25:34</regDt>
+
+</item>
+
+<item>
+<sn>24</sn>
+<no>324</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>24</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 석굴암 석굴]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 石窟庵 石窟]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00240000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700240000</ccbaCpno>
+<longitude>129.349242</longitude>
+<latitude>35.794852</latitude>
+<regDt>2024-01-03 15:55:04</regDt>
+
+</item>
+
+<item>
+<sn>25</sn>
+<no>325</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>25</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 태종무열왕릉비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 太宗武烈王陵碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[경주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00250000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700250000</ccbaCpno>
+<longitude>129.188548279325</longitude>
+<latitude>35.8251335576631</latitude>
+<regDt>2023-12-12 11:25:34</regDt>
+
+</item>
+
+<item>
+<sn>26</sn>
+<no>326</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>26</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 불국사 금동비로자나불좌상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 佛國寺 金銅毘盧遮那佛坐像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00260000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700260000</ccbaCpno>
+<longitude>0</longitude>
+<latitude>0</latitude>
+<regDt>2023-12-12 11:25:34</regDt>
+
+</item>
+
+<item>
+<sn>27</sn>
+<no>327</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>27</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 불국사 금동아미타여래좌상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 佛國寺 金銅阿彌陀如來坐像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[불국사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00270000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700270000</ccbaCpno>
+<longitude>0</longitude>
+<latitude>0</latitude>
+<regDt>2023-12-12 11:25:34</regDt>
+
+</item>
+
+<item>
+<sn>28</sn>
+<no>328</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>28</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 백률사 금동약사여래입상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 栢栗寺 金銅藥師如來立像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[국립경주박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00280000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700280000</ccbaCpno>
+<longitude>129.227912382125</longitude>
+<latitude>35.8293874259588</latitude>
+<regDt>2023-12-12 11:25:34</regDt>
+
+</item>
+
+<item>
+<sn>29</sn>
+<no>329</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>29</crltsnoNm>
+<ccbaMnm1><![CDATA[성덕대왕신종]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[聖德大王神鍾]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[국립경주박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00290000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700290000</ccbaCpno>
+<longitude>129.227912382125</longitude>
+<latitude>35.8293874259588</latitude>
+<regDt>2024-07-01 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>30</sn>
+<no>330</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>30</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 분황사 모전석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 芬皇寺 模塼石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[분황사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00300000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700300000</ccbaCpno>
+<longitude>129.233641826763</longitude>
+<latitude>35.840561548299</latitude>
+<regDt>2024-03-14 18:25:01</regDt>
+
+</item>
+
+<item>
+<sn>31</sn>
+<no>331</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>31</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 첨성대]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 瞻星臺]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[경주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00310000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700310000</ccbaCpno>
+<longitude>129.218993693668</longitude>
+<latitude>35.834695848054</latitude>
+<regDt>2024-01-03 15:55:04</regDt>
+
+</item>
+
+<item>
+<sn>32</sn>
+<no>371</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>32</crltsnoNm>
+<ccbaMnm1><![CDATA[합천 해인사 대장경판]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[陜川 海印寺 大藏經板]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[합천군]]></ccsiName>
+<ccbaAdmin><![CDATA[해인사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>38</ccbaCtcd>
+<ccbaAsno>00320000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113800320000</ccbaCpno>
+<longitude>128.0980159</longitude>
+<latitude>35.8011827</latitude>
+<regDt>2024-04-24 10:28:40</regDt>
+
+</item>
+
+<item>
+<sn>33</sn>
+<no>372</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>33</crltsnoNm>
+<ccbaMnm1><![CDATA[창녕 신라 진흥왕 척경비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[昌寧 新羅 眞興王 拓境碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[창녕군]]></ccsiName>
+<ccbaAdmin><![CDATA[창녕군]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>38</ccbaCtcd>
+<ccbaAsno>00330000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113800330000</ccbaCpno>
+<longitude>128.50264501968</longitude>
+<latitude>35.5407250695667</latitude>
+<regDt>2023-12-12 11:25:40</regDt>
+
+</item>
+
+<item>
+<sn>34</sn>
+<no>373</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>34</crltsnoNm>
+<ccbaMnm1><![CDATA[창녕 술정리 동 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[昌寧 述亭里 東 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[창녕군]]></ccsiName>
+<ccbaAdmin><![CDATA[창녕군]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>38</ccbaCtcd>
+<ccbaAsno>00340000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113800340000</ccbaCpno>
+<longitude>128.496103617453</longitude>
+<latitude>35.5395963195985</latitude>
+<regDt>2023-12-12 11:25:40</regDt>
+
+</item>
+
+<item>
+<sn>35</sn>
+<no>296</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>35</crltsnoNm>
+<ccbaMnm1><![CDATA[구례 화엄사 사사자 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[求禮 華嚴寺 四獅子 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[구례군]]></ccsiName>
+<ccbaAdmin><![CDATA[화엄사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00350000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600350000</ccbaCpno>
+<longitude>127.49652701406</longitude>
+<latitude>35.2569773703239</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>36</sn>
+<no>230</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>36</crltsnoNm>
+<ccbaMnm1><![CDATA[상원사 동종]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[上院寺 銅鍾]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[강원]]></ccbaCtcdNm>
+<ccsiName><![CDATA[평창군]]></ccsiName>
+<ccbaAdmin><![CDATA[상원사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>32</ccbaCtcd>
+<ccbaAsno>00360000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113200360000</ccbaCpno>
+<longitude>128.569613</longitude>
+<latitude>37.7657317</latitude>
+<regDt>2023-12-12 11:25:24</regDt>
+
+</item>
+
+<item>
+<sn>37</sn>
+<no>332</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>37</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 황복사지 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 皇福寺址 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[경주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00370000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700370000</ccbaCpno>
+<longitude>129.242391005132</longitude>
+<latitude>35.8321857175997</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>38</sn>
+<no>333</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>38</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 고선사지 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 高仙寺址 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[경주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00380000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700380000</ccbaCpno>
+<longitude>129.229057533909</longitude>
+<latitude>35.8281281391872</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>39</sn>
+<no>334</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>39</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 나원리 오층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 羅原里 五層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[경주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00390000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700390000</ccbaCpno>
+<longitude>129.212255439354</longitude>
+<latitude>35.8936077546984</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>40</sn>
+<no>335</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>40</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 정혜사지 십삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 淨惠寺址 十三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[경주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00400000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700400000</ccbaCpno>
+<longitude>129.157669514943</longitude>
+<latitude>36.0190473494375</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>41</sn>
+<no>240</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>41</crltsnoNm>
+<ccbaMnm1><![CDATA[청주 용두사지 철당간]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[淸州 龍頭寺址 鐵幢竿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[청주시]]></ccsiName>
+<ccbaAdmin><![CDATA[청주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00410000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300410000</ccbaCpno>
+<longitude>127.48975464869</longitude>
+<latitude>36.6330873652615</latitude>
+<regDt>2024-01-03 15:55:03</regDt>
+
+</item>
+
+<item>
+<sn>42</sn>
+<no>297</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>42</crltsnoNm>
+<ccbaMnm1><![CDATA[순천 송광사 목조삼존불감]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[順天 松廣寺 木造三尊佛龕]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[순천시]]></ccsiName>
+<ccbaAdmin><![CDATA[송광사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00420000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600420000</ccbaCpno>
+<longitude>127.2756552</longitude>
+<latitude>35.0021686</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>43</sn>
+<no>298</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>43</crltsnoNm>
+<ccbaMnm1><![CDATA[혜심 고신제서]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[惠諶 告身制書]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[순천시]]></ccsiName>
+<ccbaAdmin><![CDATA[송광사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00430000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600430000</ccbaCpno>
+<longitude>127.2756552</longitude>
+<latitude>35.0021686</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>44</sn>
+<no>299</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>44</crltsnoNm>
+<ccbaMnm1><![CDATA[장흥 보림사 남·북 삼층석탑 및 석등]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[長興 寶林寺 南·北 三層石塔 및 石燈]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[장흥군]]></ccsiName>
+<ccbaAdmin><![CDATA[보림사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00440000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600440000</ccbaCpno>
+<longitude>126.896264475771</longitude>
+<latitude>34.8077435022035</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>45</sn>
+<no>336</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>45</crltsnoNm>
+<ccbaMnm1><![CDATA[영주 부석사 소조여래좌상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[榮州 浮石寺 塑造如來坐像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영주시]]></ccsiName>
+<ccbaAdmin><![CDATA[부석사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00450000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700450000</ccbaCpno>
+<longitude>128.6879994</longitude>
+<latitude>36.9989709</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>46</sn>
+<no>337</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>46</crltsnoNm>
+<ccbaMnm1><![CDATA[부석사 조사당 벽화]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[浮石寺 祖師堂 壁畵]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영주시]]></ccsiName>
+<ccbaAdmin><![CDATA[부석사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00460000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700460000</ccbaCpno>
+<longitude>128.6879994</longitude>
+<latitude>36.9989709</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>47</sn>
+<no>374</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>47</crltsnoNm>
+<ccbaMnm1><![CDATA[하동 쌍계사 진감선사탑비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[河東 雙磎寺 眞鑑禪師塔碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[하동군]]></ccsiName>
+<ccbaAdmin><![CDATA[쌍계사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>38</ccbaCtcd>
+<ccbaAsno>00470000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113800470000</ccbaCpno>
+<longitude>127.650504705527</longitude>
+<latitude>35.2324784611333</latitude>
+<regDt>2023-12-12 11:25:40</regDt>
+
+</item>
+
+<item>
+<sn>48</sn>
+<no>231</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>48-1</crltsnoNm>
+<ccbaMnm1><![CDATA[평창 월정사 팔각 구층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[平昌 月精寺 八角 九層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[강원]]></ccbaCtcdNm>
+<ccsiName><![CDATA[평창군]]></ccsiName>
+<ccbaAdmin><![CDATA[월정사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>32</ccbaCtcd>
+<ccbaAsno>00480100</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113200480000</ccbaCpno>
+<longitude>128.592070081831</longitude>
+<latitude>37.7316038064596</latitude>
+<regDt>2024-01-25 14:25:03</regDt>
+
+</item>
+
+<item>
+<sn>49</sn>
+<no>17035</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>48-2</crltsnoNm>
+<ccbaMnm1><![CDATA[평창 월정사 석조보살좌상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[平昌 月精寺 石造菩薩坐像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[강원]]></ccbaCtcdNm>
+<ccsiName><![CDATA[평창군]]></ccsiName>
+<ccbaAdmin><![CDATA[월정사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>32</ccbaCtcd>
+<ccbaAsno>00480200</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113200480200</ccbaCpno>
+<longitude>128.592070081831</longitude>
+<latitude>37.7316038064596</latitude>
+<regDt>2024-04-24 10:28:37</regDt>
+
+</item>
+
+<item>
+<sn>50</sn>
+<no>254</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>49</crltsnoNm>
+<ccbaMnm1><![CDATA[예산 수덕사 대웅전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[禮山 修德寺 大雄殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[예산군]]></ccsiName>
+<ccbaAdmin><![CDATA[수덕사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00490000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400490000</ccbaCpno>
+<longitude>126.622672726278</longitude>
+<latitude>36.6632845477709</latitude>
+<regDt>2024-01-03 15:55:03</regDt>
+
+</item>
+
+<item>
+<sn>51</sn>
+<no>300</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>50</crltsnoNm>
+<ccbaMnm1><![CDATA[영암 도갑사 해탈문]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靈巖 道岬寺 解脫門]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[영암군]]></ccsiName>
+<ccbaAdmin><![CDATA[도갑사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00500000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600500000</ccbaCpno>
+<longitude>126.662111686294</longitude>
+<latitude>34.7527543103396</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>52</sn>
+<no>232</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>51</crltsnoNm>
+<ccbaMnm1><![CDATA[강릉 임영관 삼문]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[江陵 臨瀛館 三門]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[강원]]></ccbaCtcdNm>
+<ccsiName><![CDATA[강릉시]]></ccsiName>
+<ccbaAdmin><![CDATA[강릉시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>32</ccbaCtcd>
+<ccbaAsno>00510000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113200510000</ccbaCpno>
+<longitude>128.891896913434</longitude>
+<latitude>37.7529411974014</latitude>
+<regDt>2023-12-12 11:25:24</regDt>
+
+</item>
+
+<item>
+<sn>53</sn>
+<no>375</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>52</crltsnoNm>
+<ccbaMnm1><![CDATA[합천 해인사 장경판전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[陜川 海印寺 藏經板殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[합천군]]></ccsiName>
+<ccbaAdmin><![CDATA[해인사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>38</ccbaCtcd>
+<ccbaAsno>00520000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113800520000</ccbaCpno>
+<longitude>128.098720300091</longitude>
+<latitude>35.8016023778966</latitude>
+<regDt>2023-12-12 11:25:40</regDt>
+
+</item>
+
+<item>
+<sn>54</sn>
+<no>301</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>53</crltsnoNm>
+<ccbaMnm1><![CDATA[구례 연곡사 동 승탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[求禮 鷰谷寺 東 僧塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[구례군]]></ccsiName>
+<ccbaAdmin><![CDATA[연곡사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00530000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600530000</ccbaCpno>
+<longitude>127.588430206405</longitude>
+<latitude>35.2552278706953</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>55</sn>
+<no>302</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>54</crltsnoNm>
+<ccbaMnm1><![CDATA[구례 연곡사 북 승탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[求禮 鷰谷寺 北 僧塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[구례군]]></ccsiName>
+<ccbaAdmin><![CDATA[연곡사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00540000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600540000</ccbaCpno>
+<longitude>127.588262244393</longitude>
+<latitude>35.2561033437638</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>56</sn>
+<no>241</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>55</crltsnoNm>
+<ccbaMnm1><![CDATA[보은 법주사 팔상전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[報恩 法住寺 捌相殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[보은군]]></ccsiName>
+<ccbaAdmin><![CDATA[법주사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00550000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300550000</ccbaCpno>
+<longitude>127.833098082724</longitude>
+<latitude>36.5419417095503</latitude>
+<regDt>2024-01-25 14:25:02</regDt>
+
+</item>
+
+<item>
+<sn>57</sn>
+<no>303</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>56</crltsnoNm>
+<ccbaMnm1><![CDATA[순천 송광사 국사전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[順天 松廣寺 國師殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[순천시]]></ccsiName>
+<ccbaAdmin><![CDATA[송광사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00560000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600560000</ccbaCpno>
+<longitude>127.27649252568</longitude>
+<latitude>35.0018816706123</latitude>
+<regDt>2023-12-12 11:25:31</regDt>
+
+</item>
+
+<item>
+<sn>58</sn>
+<no>304</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>57</crltsnoNm>
+<ccbaMnm1><![CDATA[화순 쌍봉사 철감선사탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[和順 雙峯寺 澈鑒禪師塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[화순군]]></ccsiName>
+<ccbaAdmin><![CDATA[쌍봉사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00570000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600570000</ccbaCpno>
+<longitude>127.059222230132</longitude>
+<latitude>34.8882936734083</latitude>
+<regDt>2023-12-12 11:25:32</regDt>
+
+</item>
+
+<item>
+<sn>59</sn>
+<no>255</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>58</crltsnoNm>
+<ccbaMnm1><![CDATA[청양 장곡사 철조약사여래좌상 및 석조대좌]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑陽 長谷寺 鐵造藥師如來坐像 및 石造臺座]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[청양군]]></ccsiName>
+<ccbaAdmin><![CDATA[장곡사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00580000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400580000</ccbaCpno>
+<longitude>126.8595648</longitude>
+<latitude>36.4173064</latitude>
+<regDt>2023-12-12 11:25:27</regDt>
+
+</item>
+
+<item>
+<sn>60</sn>
+<no>233</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>59</crltsnoNm>
+<ccbaMnm1><![CDATA[원주 법천사지 지광국사탑비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[原州 法泉寺址 智光國師塔碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[강원]]></ccbaCtcdNm>
+<ccsiName><![CDATA[원주시]]></ccsiName>
+<ccbaAdmin><![CDATA[원주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>32</ccbaCtcd>
+<ccbaAsno>00590000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113200590000</ccbaCpno>
+<longitude>127.764709296462</longitude>
+<latitude>37.2096197546811</latitude>
+<regDt>2024-04-24 10:28:37</regDt>
+
+</item>
+
+<item>
+<sn>61</sn>
+<no>4</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>60</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 사자형뚜껑 향로]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 獅子形蓋 香爐]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00600000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100600000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:02</regDt>
+
+</item>
+
+<item>
+<sn>62</sn>
+<no>5</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>61</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 어룡형 주전자]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 魚龍形 注子]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00610000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100610000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:02</regDt>
+
+</item>
+
+<item>
+<sn>63</sn>
+<no>283</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>62</crltsnoNm>
+<ccbaMnm1><![CDATA[김제 금산사 미륵전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金堤 金山寺 彌勒殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[김제시]]></ccsiName>
+<ccbaAdmin><![CDATA[금산사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>35</ccbaCtcd>
+<ccbaAsno>00620000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113500620000</ccbaCpno>
+<longitude>127.053933184269</longitude>
+<latitude>35.7231115250509</latitude>
+<regDt>2023-12-12 11:25:30</regDt>
+
+</item>
+
+<item>
+<sn>64</sn>
+<no>234</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>63</crltsnoNm>
+<ccbaMnm1><![CDATA[철원 도피안사 철조비로자나불좌상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[鐵原 到彼岸寺 鐵造毘盧遮那佛坐像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[강원]]></ccbaCtcdNm>
+<ccsiName><![CDATA[철원군]]></ccsiName>
+<ccbaAdmin><![CDATA[도피안사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>32</ccbaCtcd>
+<ccbaAsno>00630000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113200630000</ccbaCpno>
+<longitude>127.2180467</longitude>
+<latitude>38.2405281</latitude>
+<regDt>2024-04-24 10:28:38</regDt>
+
+</item>
+
+<item>
+<sn>65</sn>
+<no>242</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>64</crltsnoNm>
+<ccbaMnm1><![CDATA[보은 법주사 석련지]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[報恩 法住寺 石蓮池]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[보은군]]></ccsiName>
+<ccbaAdmin><![CDATA[법주사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00640000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300640000</ccbaCpno>
+<longitude>127.832483864655</longitude>
+<latitude>36.541486086488</latitude>
+<regDt>2024-01-25 14:25:02</regDt>
+
+</item>
+
+<item>
+<sn>66</sn>
+<no>6</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>65</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 기린형뚜껑 향로]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 麒麟形蓋 香爐]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00650000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100650000</ccbaCpno>
+<longitude>126.9967</longitude>
+<latitude>37.5946</latitude>
+<regDt>2023-12-12 11:25:02</regDt>
+
+</item>
+
+<item>
+<sn>67</sn>
+<no>7</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>66</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 상감연지원앙문 정병]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 象嵌蓮池鴛鴦文 淨甁]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00660000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100660000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2023-12-12 11:25:02</regDt>
+
+</item>
+
+<item>
+<sn>68</sn>
+<no>305</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>67</crltsnoNm>
+<ccbaMnm1><![CDATA[구례 화엄사 각황전]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[求禮 華嚴寺 覺皇殿]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[구례군]]></ccsiName>
+<ccbaAdmin><![CDATA[화엄사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>36</ccbaCtcd>
+<ccbaAsno>00670000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113600670000</ccbaCpno>
+<longitude>127.497211018003</longitude>
+<latitude>35.257238210658</latitude>
+<regDt>2024-01-03 16:25:05</regDt>
+
+</item>
+
+<item>
+<sn>69</sn>
+<no>8</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>68</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 상감운학문 매병]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 象嵌雲鶴文 梅甁]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00680000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100680000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2023-12-12 11:25:02</regDt>
+
+</item>
+
+<item>
+<sn>70</sn>
+<no>199</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>69</crltsnoNm>
+<ccbaMnm1><![CDATA[심지백 개국원종공신녹권]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[沈之伯 開國原從功臣錄券]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[부산]]></ccbaCtcdNm>
+<ccsiName><![CDATA[서구]]></ccsiName>
+<ccbaAdmin><![CDATA[동아대학교박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>21</ccbaCtcd>
+<ccbaAsno>00690000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1112100690000</ccbaCpno>
+<longitude>129.0193361</longitude>
+<latitude>35.1046988</latitude>
+<regDt>2023-12-12 11:25:21</regDt>
+
+</item>
+
+<item>
+<sn>71</sn>
+<no>9</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>70</crltsnoNm>
+<ccbaMnm1><![CDATA[훈민정음]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[訓民正音]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00700000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100700000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2024-03-25 16:25:02</regDt>
+
+</item>
+
+<item>
+<sn>72</sn>
+<no>10</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>71</crltsnoNm>
+<ccbaMnm1><![CDATA[동국정운 권1, 6]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[東國正韻 卷一, 六]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00710000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100710000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>73</sn>
+<no>11</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>72</crltsnoNm>
+<ccbaMnm1><![CDATA[금동계미명삼존불입상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金銅癸未銘三尊佛立像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00720000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100720000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>74</sn>
+<no>12</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>73</crltsnoNm>
+<ccbaMnm1><![CDATA[금동삼존불감]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金銅三尊佛龕]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술문화재단]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00730000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100730000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>75</sn>
+<no>13</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>74</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 오리모양 연적]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 鴨形 硯滴]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[성북구]]></ccsiName>
+<ccbaAdmin><![CDATA[간송미술관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00740000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100740000</ccbaCpno>
+<longitude>127.0182146</longitude>
+<latitude>37.589116</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>76</sn>
+<no>376</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>75</crltsnoNm>
+<ccbaMnm1><![CDATA[표충사 청동 은입사 향완]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[表忠寺 靑銅 銀入絲 香垸]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[밀양시]]></ccsiName>
+<ccbaAdmin><![CDATA[표충사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>38</ccbaCtcd>
+<ccbaAsno>00750000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113800750000</ccbaCpno>
+<longitude>128.9623239</longitude>
+<latitude>35.533758</latitude>
+<regDt>2023-12-12 11:25:40</regDt>
+
+</item>
+
+<item>
+<sn>77</sn>
+<no>256</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>76</crltsnoNm>
+<ccbaMnm1><![CDATA[이순신 난중일기 및 서간첩 임진장초]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[李舜臣 亂中日記 및 書簡帖 壬辰狀草]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[아산시]]></ccsiName>
+<ccbaAdmin><![CDATA[현충사관리소]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00760000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400760000</ccbaCpno>
+<longitude>127.0320687</longitude>
+<latitude>36.806545</latitude>
+<regDt>2023-12-12 11:25:27</regDt>
+
+</item>
+
+<item>
+<sn>78</sn>
+<no>338</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>77</crltsnoNm>
+<ccbaMnm1><![CDATA[의성 탑리리 오층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[義城 塔里里 五層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[의성군]]></ccsiName>
+<ccbaAdmin><![CDATA[의성군]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00770000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700770000</ccbaCpno>
+<longitude>128.683830177852</longitude>
+<latitude>36.2552065336905</latitude>
+<regDt>2023-12-12 11:25:35</regDt>
+
+</item>
+
+<item>
+<sn>79</sn>
+<no>14</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>78</crltsnoNm>
+<ccbaMnm1><![CDATA[금동미륵보살반가사유상(1962-1)]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金銅彌勒菩薩半跏思惟像(1962-1)]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00780000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100780000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>80</sn>
+<no>15</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>79</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 구황동 금제여래좌상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 九黃洞 金製如來坐像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00790000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100790000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>81</sn>
+<no>16</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>80</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 구황동 금제여래입상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 九黃洞 金製如來立像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00800000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100800000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2024-04-24 10:28:33</regDt>
+
+</item>
+
+<item>
+<sn>82</sn>
+<no>17</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>81</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 감산사 석조미륵보살입상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 甘山寺 石造彌勒菩薩立像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00810000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100810000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>83</sn>
+<no>18</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>82</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 감산사 석조아미타여래입상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 甘山寺 石造阿彌陀如來立像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00820000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100820000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:03</regDt>
+
+</item>
+
+<item>
+<sn>84</sn>
+<no>19</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>83</crltsnoNm>
+<ccbaMnm1><![CDATA[금동미륵보살반가사유상(1962-2)]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金銅彌勒菩薩半跏思惟像(1962-2)]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00830000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100830000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2024-04-24 10:28:33</regDt>
+
+</item>
+
+<item>
+<sn>85</sn>
+<no>257</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>84</crltsnoNm>
+<ccbaMnm1><![CDATA[서산 용현리 마애여래삼존상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[瑞山 龍賢里 磨崖如來三尊像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[서산시]]></ccsiName>
+<ccbaAdmin><![CDATA[서산시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00840000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400840000</ccbaCpno>
+<longitude>126.605229576013</longitude>
+<latitude>36.7738058344123</latitude>
+<regDt>2023-12-12 11:25:27</regDt>
+
+</item>
+
+<item>
+<sn>86</sn>
+<no>20</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>85</crltsnoNm>
+<ccbaMnm1><![CDATA[금동신묘명삼존불입상]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金銅辛卯銘三尊佛立像]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[삼성문화재단]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00850000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100850000</ccbaCpno>
+<longitude>126.9654442</longitude>
+<latitude>37.5384272</latitude>
+<regDt>2023-12-12 11:25:04</regDt>
+
+</item>
+
+<item>
+<sn>87</sn>
+<no>21</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>86</crltsnoNm>
+<ccbaMnm1><![CDATA[개성 경천사지 십층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[開城 敬天寺址 十層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00860000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100860000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2024-04-24 10:28:33</regDt>
+
+</item>
+
+<item>
+<sn>88</sn>
+<no>339</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>87</crltsnoNm>
+<ccbaMnm1><![CDATA[금관총 금관 및 금제 관식]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金冠塚 金冠 및 金製 冠飾]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[국립경주박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00870000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700870000</ccbaCpno>
+<longitude>129.227912382125</longitude>
+<latitude>35.8293874259588</latitude>
+<regDt>2023-12-12 11:25:36</regDt>
+
+</item>
+
+<item>
+<sn>89</sn>
+<no>340</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>88</crltsnoNm>
+<ccbaMnm1><![CDATA[금관총 금제 허리띠]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金冠塚 金製 銙帶]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[경주시]]></ccsiName>
+<ccbaAdmin><![CDATA[국립경주박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>37</ccbaCtcd>
+<ccbaAsno>00880000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113700880000</ccbaCpno>
+<longitude>129.227912382125</longitude>
+<latitude>35.8293874259588</latitude>
+<regDt>2023-12-12 11:25:36</regDt>
+
+</item>
+
+<item>
+<sn>90</sn>
+<no>22</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>89</crltsnoNm>
+<ccbaMnm1><![CDATA[평양 석암리 금제 띠고리]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[平壤 石巖里 金製 鉸具]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00890000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100890000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:04</regDt>
+
+</item>
+
+<item>
+<sn>91</sn>
+<no>23</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>90</crltsnoNm>
+<ccbaMnm1><![CDATA[경주 부부총 금귀걸이]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[慶州 夫婦塚 金製耳飾]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00900000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100900000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:04</regDt>
+
+</item>
+
+<item>
+<sn>92</sn>
+<no>24</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>91</crltsnoNm>
+<ccbaMnm1><![CDATA[도기 기마인물형 명기]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[陶器 騎馬人物形 明器]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00910000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100910000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2024-01-31 18:25:01</regDt>
+
+</item>
+
+<item>
+<sn>93</sn>
+<no>25</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>92</crltsnoNm>
+<ccbaMnm1><![CDATA[청동 은입사 포류수금문 정병]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑銅 銀入絲 蒲柳水禽文 淨甁]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00920000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100920000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:04</regDt>
+
+</item>
+
+<item>
+<sn>94</sn>
+<no>26</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>93</crltsnoNm>
+<ccbaMnm1><![CDATA[백자 철화포도원숭이문 항아리]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[白磁 鐵畵葡萄猿文 壺]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00930000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100930000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:04</regDt>
+
+</item>
+
+<item>
+<sn>95</sn>
+<no>27</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>94</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 참외모양 병]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 瓜形 甁]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00940000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100940000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:04</regDt>
+
+</item>
+
+<item>
+<sn>96</sn>
+<no>28</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>95</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 투각칠보문뚜껑 향로]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 透刻七寶文蓋 香爐]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00950000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100950000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:05</regDt>
+
+</item>
+
+<item>
+<sn>97</sn>
+<no>29</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>96</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 구룡형 주전자]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 龜龍形 注子]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00960000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100960000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:05</regDt>
+
+</item>
+
+<item>
+<sn>98</sn>
+<no>30</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>97</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 음각연화당초문 매병]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 陰刻蓮花唐草文 梅甁]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00970000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100970000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:05</regDt>
+
+</item>
+
+<item>
+<sn>99</sn>
+<no>31</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>98</crltsnoNm>
+<ccbaMnm1><![CDATA[청자 상감모란문 항아리]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[靑磁 象嵌牡丹文 壺]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00980000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100980000</ccbaCpno>
+<longitude>126.980350241652</longitude>
+<latitude>37.5240413763397</latitude>
+<regDt>2023-12-12 11:25:05</regDt>
+
+</item>
+
+<item>
+<sn>100</sn>
+<no>32</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>99</crltsnoNm>
+<ccbaMnm1><![CDATA[김천 갈항사지 동·서 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[金泉 葛項寺址 東·西 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00990000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100990000</ccbaCpno>
+<longitude>126.980757030004</longitude>
+<latitude>37.5221291000299</latitude>
+<regDt>2023-12-12 11:25:05</regDt>
+
+</item>
+	
+</result>
